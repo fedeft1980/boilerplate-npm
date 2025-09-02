@@ -1,24 +1,10 @@
 {
-  "name": "fcc-learn-npm-package-json",
+  "name": "boilerplate-npm",
   "version": "1.0.0",
-  "description": "A project that does something awesome",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-  "dependencies": {
-    "express": "^4.14.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-  },
-  "author": "Federico Torres",
-  "license": "ISC",
-  "keywords": [
-    "freecodecamp",
-    "npm",
-    "challenge"
-  ]
+  "author": "fedeft1980"
 }
